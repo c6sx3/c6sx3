@@ -18,11 +18,6 @@ const c6sx3 = {
     tools: ["git", "vscode"]
   },
 
-  activity: {
-    current: ["building projects", "learning advanced patterns", "exploring ai use cases"],
-    past: ["prebuilt websites", "bots", "ai software"]
-  },
-
   contact: {
     discord: "clx.ms"
   },
@@ -30,7 +25,6 @@ const c6sx3 = {
   flags: {
     openToCollaborate: true,
     autodidact: true,
-    shippingCode: true
   }
 };
 ```
