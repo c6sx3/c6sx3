@@ -14,13 +14,13 @@ const c6sx3 = {
     tools: ["git", "vscode"]
   },
 
+  contact: {
+    email: "c6sx3@outlook.com"
+  }
+
   flags: {
     openToCollaborate: true,
     autodidact: true,
-  }
-  
-  contact: {
-    email: "c6sx3@outlook.com"
   }
 };
 ```
