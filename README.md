@@ -10,12 +10,7 @@ const c6sx3 = {
   },
 
   stack: {
-    languages: [
-      "python",
-      "javascript",
-      "react",
-      "rust"
-    ],
+    languages: ["python", "javascript", "react", "rust"],
     tools: ["git", "vscode"]
   },
 
