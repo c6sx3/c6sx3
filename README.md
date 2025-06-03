@@ -16,7 +16,7 @@ const c6sx3 = {
 
   contact: {
     email: "c6sx3@outlook.com"
-  }
+  },
 
   flags: {
     openToCollaborate: true,
