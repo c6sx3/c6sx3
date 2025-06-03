@@ -6,25 +6,21 @@
 const c6sx3 = {
   identity: {
     username: "c6sx3",
-    age: 15,
-    role: "student",
     focus: ["software engineering", "ai systems", "web development"]
   },
 
   stack: {
     languages: ["python", "javascript", "typescript"],
-    frontend: ["react", "next.js", "tailwind"],
-    backend: ["node.js", "express", "mongodb"],
     tools: ["git", "vscode"]
-  },
-
-  contact: {
-    discord: "clx.ms"
   },
 
   flags: {
     openToCollaborate: true,
     autodidact: true,
+  }
+  
+  contact: {
+    email: "c6sx3@outlook.com"
   }
 };
 ```
