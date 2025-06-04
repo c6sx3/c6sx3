@@ -15,7 +15,7 @@ const c6sx3 = {
   },
 
   contact: {
-    email: "c6sx3@outlook.com"
+    telegram: "c6sx2" //idk why tg won't take my username
   },
 
   flags: {
