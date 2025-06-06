@@ -10,8 +10,17 @@ const c6sx3 = {
   },
 
   stack: {
-    languages: ["python", "javascript", "react", "rust"],
-    tools: ["git", "vscode"]
+    languages: [
+      "python", "javascript", "typescript", "rust", "java", "go", 
+      "html", "css", "scss", "sql", "bash"
+    ],
+    frameworks: [
+      "react", "next.js", "vite", "tailwind css", "express"
+    ],
+    tools: ["git", "vscode", "docker"]
+    databases: [
+      "postgresql", "mysql", "sqlite", "mongodb", "redis", "supabase"
+    ]
   },
 
   contact: {
@@ -23,4 +32,5 @@ const c6sx3 = {
     autodidact: true,
   }
 };
+
 ```
