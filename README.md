@@ -6,16 +6,15 @@
 const c6sx3 = {
   identity: {
     username: "c6sx3",
-    focus: ["software engineering", "ai systems", "web development"]
+    focus: ["software engineering", "web development"]
   },
 
   stack: {
     languages: [
-      "python", "javascript", "typescript", "rust", "java", "go", 
-      "html", "css", "scss", "sql", "bash"
+      "python", "javascript", "typescript", "rust"
     ],
     frameworks: [
-      "react", "next.js", "vite", "tailwind css", "express"
+      "react", "next.js", "vite", "tailwind css"
     ],
     tools: ["git", "vscode", "docker"],
   },
