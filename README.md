@@ -17,10 +17,7 @@ const c6sx3 = {
     frameworks: [
       "react", "next.js", "vite", "tailwind css", "express"
     ],
-    tools: ["git", "vscode", "docker"]
-    databases: [
-      "postgresql", "mysql", "sqlite", "mongodb", "redis", "supabase"
-    ]
+    tools: ["git", "vscode", "docker"],
   },
 
   contact: {
