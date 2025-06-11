@@ -13,10 +13,7 @@ const c6sx3 = {
     languages: [
       "python", "javascript", "typescript", "rust"
     ],
-    frameworks: [
-      "react", "next.js", "vite", "tailwind css"
-    ],
-    tools: ["git", "vscode", "docker"],
+    tools: ["git", "vscode"]
   },
 
   contact: {
